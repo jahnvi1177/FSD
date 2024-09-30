@@ -1,0 +1,31 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+table
+{
+    background-color: aqua;
+    border-width: 10px;
+    border-style: groove;
+    border-color: black;
+    width: 100%;
+
+}
+#heading
+{
+    background-color: bisque;
+    font-size: 60px;
+    text-align: center;
+    color: brown;
+}
+#row1
+{
+    background-color: aqua;
+    text-align: center;
+}
+#row2
+{
+    background-color: aquamarine;
+    text-align: center;
+}
